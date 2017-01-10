@@ -1,0 +1,7 @@
+(my number, the number, my phone, my digits, it) [0] (is,are) [0] [1=USER_PHONE_NUMBER]
+I'm [0] [1=USER_PHONE_NUMBER]
+number [0] is [0] [1=USER_PHONE_NUMBER]
+number's [0] [1=USER_PHONE_NUMBER]
+I [0] am [0] at [1=USER_PHONE_NUMBER]
+[1=USER_PHONE_NUMBER] is [0] (my number, my phone number, my phone) [0]
+[1=USER_PHONE_NUMBER]
