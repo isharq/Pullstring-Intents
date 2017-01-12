@@ -1,5 +1,5 @@
-(his, her, their, the) [0] (number, phone number, telephone, telephone number, phone, digits, cell number, cell phone) [0] (is,are) [0] [1=THEIR_PHONE_NUMBER]
-number [0] is [0] [1=THEIR_PHONE_NUMBER]
-number's [0] [1=THEIR_PHONE_NUMBER]
-[1=USER_PHONE_NUMBER] is [0] (his,her,their) [0] (number, phone, phone number, telephone, telephone number, cell, cell number) [0]
-[1=USER_PHONE_NUMBER]
+(his,her,their) [0] (number, number, phone, it, number, cell, phonenumber) [0] is [0] [1-4=THEIR_PHONE_NUMBER]
+(his,her,their) [0] (numbers, digits) [0] are [0] [1-4=THEIR_PHONE_NUMBER]
+(i'm at, i'm) [0] [1-4=THEIR_PHONE_NUMBER]
+[1-4=THEIR_PHONE_NUMBER] is [0] (his,her,their) [0] (number,phone number, phonenumber)
+[1-4=USER_PHONE_NUMBER]
