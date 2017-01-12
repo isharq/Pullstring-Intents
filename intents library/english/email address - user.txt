@@ -1,0 +1,3 @@
+(my,the) [0] ("e-mail address", address, "email address", "e-mail", email) [0] is [1-5=USER_EMAIL]
+(you can reach me, i'm) [0] at [1-5=USER_EMAIL]
+[1-5=USER_EMAIL] is [0] (my,the) [0] ("e-mail address", address, "email address", "e-mail", email)
